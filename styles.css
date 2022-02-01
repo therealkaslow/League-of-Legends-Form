@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#titulo {
+    font-family: sans-serif;
+    color: #4b7bec;
+    margin-left: 7%;
+}
+#subtitulo {
+    font-family: sans-serif;
+    color: #f7b731;
+}
+fieldset {
+    border: 0;
+}
+body{
+    
+}
