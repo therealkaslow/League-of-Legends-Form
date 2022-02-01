@@ -17,11 +17,11 @@
 
   <img alt="License" src="https://img.shields.io/github/license/{{therealkaslow}}/landing-page?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/landing-page?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{therealkaslow}}/landing-page?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/landing-page?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{therealkaslow}}/landing-page?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/landing-page?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{therealkaslow}}/landing-page?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -46,8 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
-
+Puramente Criado para protfolio e obtendo mais prática com HTML e CSS
 ## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1;\
